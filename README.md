@@ -1,1 +1,1 @@
-# handson-ml2
+# materials to study handson-ml2
